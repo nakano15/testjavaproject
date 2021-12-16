@@ -12,3 +12,6 @@ I thought about making this be either a mini rpg, until I found out about two th
 2) Oracle terms to use Java. After I read them, I wondered that I couldn't actually try making a living of this programming language, without previously have spent some on them.
 
 At least was quite interesting for a while to mess with this.
+
+And sorry if the source ends up being lacking. When trying to send it to github, I saw both bin and src folders. It didn't made much sense to send the bin folder, since seems 
+like a compilation of the project to run on my pc, so I only sent the src folder.
